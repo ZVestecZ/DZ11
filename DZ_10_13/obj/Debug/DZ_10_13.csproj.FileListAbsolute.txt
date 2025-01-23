@@ -1,0 +1,7 @@
+Z:\Щарпы\DZ_10_13\bin\Debug\DZ_10_13.exe.config
+Z:\Щарпы\DZ_10_13\bin\Debug\DZ_10_13.exe
+Z:\Щарпы\DZ_10_13\bin\Debug\DZ_10_13.pdb
+Z:\Щарпы\DZ_10_13\obj\Debug\DZ_10_13.csproj.AssemblyReference.cache
+Z:\Щарпы\DZ_10_13\obj\Debug\DZ_10_13.csproj.CoreCompileInputs.cache
+Z:\Щарпы\DZ_10_13\obj\Debug\DZ_10_13.exe
+Z:\Щарпы\DZ_10_13\obj\Debug\DZ_10_13.pdb
